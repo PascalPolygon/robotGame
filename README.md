@@ -1,11 +1,11 @@
 # robotGame
 Front end game built with JS, webpack and PIXI.js
 
-##Robot
+## Robot
 ![](picture/Robot.PNG)
-##Status
+## Status
 ![](picture/Status.PNG)
-##Collision
+## Collision
 ![](picture/Collision.PNG)
-##Loss
+## Loss
 ![](picture/loss.PNG)
